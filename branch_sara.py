@@ -21,3 +21,4 @@ class Tavoletta(Cioccolato):
         print(f" il peso è: {self.peso}")
         print(f" aggiunte: {self.aggiunte}")
         print(f" ha utilizzato queste unita' di cioccolato: {self.unità}")
+
