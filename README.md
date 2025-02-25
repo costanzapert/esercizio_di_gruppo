@@ -1,0 +1,1 @@
+# esercizio_di_gruppo
